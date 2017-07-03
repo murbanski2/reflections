@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git init initializes the directory. It makes a hidden folder called .git. It does not create a commit. It must be done before creating a commit.
