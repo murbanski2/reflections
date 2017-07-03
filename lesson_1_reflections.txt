@@ -1,0 +1,63 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+If you know that you made an error, but your old file is good, you have much less to check if
+you use the compare.
+
+
+Manual copies
+dropbox (30 days for old versions)
+google docs
+wikipedia
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    - You don't have to comment out old code. You can just delete it. You can always go back and get it in the old version.
+    - You can find the code that breaks the program by looking at differences.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs does?
+
+Pros: You can do it at logical times.
+      You can add comments when you commit.
+  
+Cons: You may not save often enough.
+      Changes might not be at logical times, and the code may not work.
+      No comments with automatic saves.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+Google Docs (and others) is file oriented. Files are separate from each other. Git is designed to manage
+software creation, where code for a program is probably in multiple parts.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+Use git log to find the particular revisions you want to look at. 
+Use diff to see what has changed since the previous version.
+The previous version is lower on the list.
+Newer versions are higher on the list.
+
+
+
+How might using version control make you more confident to make changes that could break something?
+
+Since you can revert back to a previous version easily, breaking something is not a big deal. You 
+just need to be sure to commit before making the change.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+    -Use it for websites
+    -Use it to practice
+    -Learn more about version control
+    
+
+
+
+
