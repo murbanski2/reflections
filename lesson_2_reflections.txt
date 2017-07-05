@@ -11,3 +11,8 @@ The staging area is only for files you want to commit. The repository is all of 
 How can you use the staging area to make sure you have one commit per logical change?
 
 Stage only the files with the logical change that you want. Then commit. Then stage the files for the next logical change and commit those.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are helpful when you want to try out changes that you may not want to keep. Experiments, testing, alternate ways to have something work. Like an easy method for a game.
