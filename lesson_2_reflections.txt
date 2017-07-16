@@ -25,3 +25,8 @@ Diagrams show you where the branch starts. It helps keep thigs organized.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging branches together combines code from both branches. Diagram shows new Master created from the two branches.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+If merges can be done automatically, it saves time. But you might not want the merge to be done the way it automatically does it. Manually doing it takes extra time, but you get what you want.
