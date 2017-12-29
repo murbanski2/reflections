@@ -13,3 +13,7 @@ Describe the differences between forks, clones, and branches. When would you use
     You branch to do new work.
     You Fork another repository to GitHub.
     You clone the GitHub repository to your local machine where you do your work.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    You can work on it even if you do not have an active internet connection.
+
